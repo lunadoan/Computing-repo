@@ -9,3 +9,6 @@ If you run out of guesses yet still not find the number, game is over. A new gam
 [Play game here](https://py3.codeskulptor.org/#user309_p2lFVLUeqL_0.py)
 
 If does not work, try open it from Chrome browser.
+
+*Note*:
+Strategy to guess the number: mimic the computer's "binary search" algorithm. Try to narrow the range each guess. With this strategy, you'll always find the number after n guess where 2^n >= the range.
