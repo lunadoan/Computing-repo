@@ -15,7 +15,7 @@ This Blackjack game is a simplified version of the gamble you see in Las Vegas.
 
 Start a deal?
 
-[Play game here](https://py2.codeskulptor.org/#user51_Hf5FIx2SrC_14.py)
+[**Play game here**](https://py2.codeskulptor.org/#user51_Hf5FIx2SrC_14.py)
 
 If does not work, try open it from Chrome browser.
 
@@ -26,7 +26,7 @@ In "Memory" game, you'll check if you have a photographic memory. For each turn,
 
 Restart buttons will restart the game over with new spread (think about spreading a card deck, this works the same, card positions will be different).
 
-[Play game here](https://py2.codeskulptor.org/#user51_Hf5FIx2SrC_14.py)
+[**Play game here**](https://py2.codeskulptor.org/#user51_Hf5FIx2SrC_14.py)
 
 If does not work, try open it from Chrome browser.
 
@@ -41,7 +41,7 @@ Control key to move the paddles: <br>
 - Left paddle: W to move up and S to move down 
 - Right paddle: Up arrow to move up and down arrow to move down
 
-[Play game here](https://py3.codeskulptor.org/#user309_YPR6SsMD1P_14.py)
+[**Play game here**](https://py3.codeskulptor.org/#user309_YPR6SsMD1P_14.py)
 
 If does not work, try open it from Chrome browser.
 If keyboard isn't responsive, [try this URL instead](https://py2.codeskulptor.org/#user309_YPR6SsMD1P_14.py)
@@ -53,7 +53,7 @@ In "Stop the watch" game, you'll try to stop the watch at whole second. For exam
 
 The score is in "x/y" format, in which y is the number of times you hit the stop button, and x is your score. 
 
-[Play game here](https://py3.codeskulptor.org/#user309_uGEW4OWIkr_4.py)
+[**Play game here**](https://py3.codeskulptor.org/#user309_uGEW4OWIkr_4.py)
 
 If does not work, try open it from Chrome browser.
 
@@ -66,7 +66,7 @@ Computer picks a secret number in a predefined range (range from 0 to 100 or ran
 
 If you run out of guesses yet still not find the number, game is over. A new game will also automatically start.
 
-[Play game here](https://py3.codeskulptor.org/#user309_p2lFVLUeqL_0.py)
+[**Play game here**](https://py3.codeskulptor.org/#user309_p2lFVLUeqL_0.py)
 
 If does not work, try open it from Chrome browser.
 
@@ -82,7 +82,7 @@ Game rule:
 You play with computer
 ![Choice matrix](images/image.png)
 
-[Play game here](https://py3.codeskulptor.org/#user309_input_fields_3.py)
+[**Play game here**](https://py3.codeskulptor.org/#user309_input_fields_3.py)
 
 If does not work, try open it from Chrome browser.
 
