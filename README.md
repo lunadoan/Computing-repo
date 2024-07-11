@@ -82,7 +82,7 @@ Game rule:
 You play with computer
 ![Choice matrix](images/image.png)
 
-[**Play game here**](https://py3.codeskulptor.org/#user309_input_fields_3.py)
+[**Play game here**](https://py3.codeskulptor.org/#user309_input_fields_4.py)
 
 If does not work, try open it from Chrome browser.
 
