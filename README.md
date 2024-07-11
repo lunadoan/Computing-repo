@@ -15,7 +15,7 @@ This Blackjack game is a simplified version of the gamble you see in Las Vegas.
 
 Start a deal?
 
-[**Play game here**](https://py2.codeskulptor.org/#user51_Hf5FIx2SrC_14.py)
+[**Play game here**](https://py3.codeskulptor.org/#user309_9RPGRudvA4_6.py)
 
 If does not work, try open it from Chrome browser.
 
