@@ -37,9 +37,9 @@ In "Arcade Pong" game, you'll play with your friend. You all will try to move th
 
 The ball moves at random speed. And to make the game a bit more challenging, if any of you strike the ball, the speed will increase by 10%. 
 
-Control key to move the paddles:
-Left paddle: W to move up and S to move down
-Right paddle: Up arrow to move up and down arrow to move down
+Control key to move the paddles: <br>
+- Left paddle: W to move up and S to move down 
+- Right paddle: Up arrow to move up and down arrow to move down
 
 [Play game here](https://py3.codeskulptor.org/#user309_YPR6SsMD1P_14.py)
 
