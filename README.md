@@ -17,7 +17,7 @@ Start a deal?
 
 If does not work, try open it from Chrome browser.
 
-![blackjack game program](blackjack.png)
+![blackjack game program](images/blackjack.png)
 
 ## Memory game
 In "Memory" game, you'll check if you have a photographic memory. For each turn, you'll reveal 2 cards. If the cards are the same, the cards will stay exposed. But if the cards are different, they will be flipped. Try to see if you can expose all the cards with the smallest number of turns. 
@@ -28,7 +28,7 @@ Restart buttons will restart the game over with new spread (think about spreadin
 
 If does not work, try open it from Chrome browser.
 
-![memory game program](memory.png)
+![memory game program](images/memory.png)
 
 ## Arcade Pong game
 In "Arcade Pong" game, you'll play with your friend. You all will try to move the your paddel to hit the ball. If you do not hit the ball when it comes, your opponent score 1 and you don't earn any.
@@ -44,7 +44,7 @@ Right paddle: Up arrow to move up and down arrow to move down
 If does not work, try open it from Chrome browser.
 If keyboard isn't responsive, [try this URL instead](https://py2.codeskulptor.org/#user309_YPR6SsMD1P_14.py)
 
-![Arcade Pong game program](arcade-pong.png)
+![Arcade Pong game program](images/arcade-pong.png)
 
 ## Stop The Watch game
 In "Stop the watch" game, you'll try to stop the watch at whole second. For example, if the watch stops at 0:05.0, you score 1. If not, you don't earn any score. 
@@ -55,7 +55,7 @@ The score is in "x/y" format, in which y is the number of times you hit the stop
 
 If does not work, try open it from Chrome browser.
 
-![Stop the watch game](stopwatch.png)
+![Stop the watch game](images/stopwatch.png)
 
 ## Guess The Number game
 In "Guess the number" game, you'll play with computer.
@@ -71,17 +71,17 @@ If does not work, try open it from Chrome browser.
 *Note*:
 Strategy to guess the number: mimic the computer's "binary search" algorithm. Try to narrow the range each guess. With this strategy, you'll always find the number after n guess where 2^n >= the range.
 
-![guess the number game program](guess-the-number.png)
+![guess the number game program](images/guess-the-number.png)
 
 ## Rock Scissors Paper game
 This game is a modified version of traditional Rock Scissors Paper game in which it has 5 choices in total: rock, scissors, paper, lizard, and Spock.
 
 Game rule:
 You play with computer
-![Choice matrix](image.png)
+![Choice matrix](images/image.png)
 
 [Play game here](https://py3.codeskulptor.org/#user309_input_fields_3.py)
 
 If does not work, try open it from Chrome browser.
 
-![rock scissors paper game program](rock-scissors-paper.png)
+![rock scissors paper game program](images/rock-scissors-paper.png)
