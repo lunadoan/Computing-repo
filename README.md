@@ -21,7 +21,7 @@ Control keys:
 
 [**Play game here**](https://py2.codeskulptor.org/#user51_HTSoRzLl95GzllT_4.py)
 
-If you don't hear sound effects, try these browsers: Chrome & Edge.
+If you don't hear sound effects (shooting, explosion, acceleration), try these browsers: Chrome & Edge.
 
 ## Blackjack game
 This Blackjack game is a simplified version of the gamble you see in Las Vegas. 
