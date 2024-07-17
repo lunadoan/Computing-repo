@@ -10,6 +10,19 @@ The existence of this repo is 1) for fun and 2) continuous learning.
 **My mom said, nothing helps you grow more than getting out of bed and building sh*t.**
 _________________
 
+## Spaceship
+This game is a modern version of Asteroid game (1979) with images and sound effects. You'll shoot the rocks to destroy them. If you hit a rock, you lose 1 live. 
+
+Control keys:
+- Space: shoot missles
+- Right arrow: rotate the ship to the right
+- Left arrow: rotate the ship to the left
+- Up arrow: accelerate the ship
+
+[**Play game here**](https://py2.codeskulptor.org/#user51_HTSoRzLl95GzllT_4.py)
+
+If you don't hear sound effects, try these browsers: Chrome & Edge.
+
 ## Blackjack game
 This Blackjack game is a simplified version of the gamble you see in Las Vegas. 
 
