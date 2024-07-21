@@ -1,13 +1,4 @@
-# Fun programming
-_________________
-
-**Hello from my keyboard!**
-
-This repo is dedicated for my (nonsense) programs. Or, do make sense but not sellable haha :D
-
-The existence of this repo is 1) for fun and 2) continuous learning. 
-
-**My mom said, nothing helps you grow more than getting out of bed and building sh*t.**
+# Interactive Programs - Python-based
 _________________
 
 ## Spaceship
