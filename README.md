@@ -2,6 +2,9 @@
 _________________
 
 ## Spaceship
+### Demo
+![spaceship game](images/spaceship-1.png)
+
 This game is a modern version of Asteroid game (1979) with images and sound effects. You'll shoot the rocks to destroy them. If you hit a rock, you lose 1 live. 
 
 Control keys:
